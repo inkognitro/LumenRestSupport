@@ -1,0 +1,27 @@
+{
+    "name": "inkognitro/LumenRestSupport",
+    "description": "",
+    "keywords": [
+        "captcha",
+        "google recaptcha",
+        "captcha verification",
+        "lumen rest api",
+        "validation message bag",
+        "rest validator"
+    ],
+    "homepage": "https://github.com/inkognitro/LumenRestSupport",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcel Fischer",
+            "email": "contact@maecefischer.ch"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Inkognitro\\": ""
+        }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
